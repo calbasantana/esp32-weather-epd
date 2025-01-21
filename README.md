@@ -1,4 +1,4 @@
-![Image_3](https://github.com/user-attachments/assets/4f24a4f1-778f-458b-89ba-a0e6fe14bc75)
+![Image_1](https://github.com/user-attachments/assets/4f24a4f1-778f-458b-89ba-a0e6fe14bc75)
 
 # Introduction
 
@@ -6,19 +6,19 @@ This is a forked project from https://github.com/lmarzen/esp32-weather-epd - pre
 
 # Case
 
-The case is made up of 11 parts in total.
+The case is made up of 11 parts in total, all of which are included here.
 
 ![Image_2](https://github.com/user-attachments/assets/c6831421-f859-46d1-bc47-393f1d05febd)
 
 # Specifications & Material(s)
-![Image_2](https://github.com/user-attachments/assets/5e186b34-c86f-42d8-afb7-48f661325942)
-
+Below are the specifications for the lasercut parts.
 ## Lasercutter
  XTool D1 Pro
 ## Material(s)
 
- Aluminum Business Cards (60pcs) – these can be purchased directly from XTool for $10.99 at the following link:
-https://www.xtool.com/products/metal-business-cards-60pcs?variant=43572695761135
+ROBOTIME 8-Pack Walnut Plywood Sheets - 12 x 16 x 1/8 Inch - 3mm Plywood for Laser Cutting, Engraving & Wood Burning (Pyrography) - Unfinished Wood for Crafts  – these can be purchased directly from XTool for $39.99 at the following link: https://www.amazon.com/gp/product/B0D4QWKYR7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+
+
 # Card Icons
  The icons for the card used are from Flaticon, which can be accessed through the following link:
 	https://www.flaticon.com/
