@@ -18,19 +18,12 @@ Below are the specifications for the lasercut parts.
 
 ROBOTIME 8-Pack Walnut Plywood Sheets - 12 x 16 x 1/8 Inch - 3mm Plywood for Laser Cutting, Engraving & Wood Burning (Pyrography) - Unfinished Wood for Crafts  – these can be purchased directly from XTool for $39.99 at the following link: https://www.amazon.com/gp/product/B0D4QWKYR7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
-
-# Card Icons
- The icons for the card used are from Flaticon, which can be accessed through the following link:
-	https://www.flaticon.com/
-# Software
+DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cylinder Fridge Magnet, Perfect to use as Office Magnets, Dry Erase Board Magnetic pins, Whiteboard, Map Pins - this can be purchased for $12.99 at the following link: https://www.amazon.com/DIYMAG-Refrigerator-Magnets-100-piece/dp/B0753ZPBLQ/ref=sr_1_19?crid=4S38QACW5AEP&dib=eyJ2IjoiMSJ9.EYtZ7hOWoiRCrhWwwsVJrzaAfrfRynJzx0wpiY7EsDZ_R-bKmqQ46Kr_FJ605BzEmuvGgxXUmGzYITG6lXI-Y-QS1oPBC3tEEx4AuWbXIllhps4bsrN73sPxXvwDwjxnnNoBRcNRsZD0FSY8oCu01ctJIgLgNL79HUSnNnuCjsskJ3paOzRH5ifOJrdhgmuFKdXm3msnuZGOTHAOwH48ZJCPbHj7LhqKhDLUPQbLvsc.g_VQ_G2BEWRtxm6rLwTTMmpZn3GpH8QrYflAKJWOVWI&dib_tag=se&keywords=10%2Bmm%2Bmagnets&qid=1736535291&sprefix=10%2Bmm%2Bmagnet%2Caps%2C88&sr=8-19&th=1
+## Software
  XTool Creative Studio (XCS)
- ## Settings (for scoring)
+ ### Settings (for cutting)
   Power (%): 1 \
   Speed (mm/s): 50 \
-  Pass: 1
- ## Settings (for engraving)
-  Power (%): 40 \
-  Speed (mm/s): 180 \
   Pass: 1
 # ESP32 E-Paper Weather Display
 
