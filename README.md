@@ -1,3 +1,5 @@
+![Image_3](https://github.com/user-attachments/assets/4f24a4f1-778f-458b-89ba-a0e6fe14bc75)
+
 # Introduction
 
 This is a forked project from https://github.com/lmarzen/esp32-weather-epd - pretty much all the things are the same, with the exception of the case, which I created myself and provide here in the form of .STL files. So, to make this brief, I will provide the case information first and then the rest will be what is in lmarzen's github repository.
@@ -33,9 +35,6 @@ https://www.xtool.com/products/metal-business-cards-60pcs?variant=43572695761135
 # ESP32 E-Paper Weather Display
 
 This is a weather display powered by a wifi-enabled ESP32 microcontroller and a 7.5in E-Paper (aka E-ink) display. Current and forecasted weather data is obtained from the OpenWeatherMap API. A sensor provides the display with accurate indoor temperature and humidity.
-
-![Image_3](https://github.com/user-attachments/assets/4f24a4f1-778f-458b-89ba-a0e6fe14bc75)
-
 
 The project draws ~14μA when sleeping and an estimated average of ~83mA during its ~15s wake period. The display can be configured to update as frequently as desired. When the refresh interval is set to 30 minutes, the device will run for >6 months on a single 5000mAh battery. The project displays accurate battery life percentage and can be recharged via a USB-C cable connected to a wall adapter or computer.
 
