@@ -27,9 +27,9 @@ DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cyl
 ## Software
  XTool Creative Studio (XCS)
  ### Settings (for cutting)
-  Power (%): 1 \
-  Speed (mm/s): 50 \
-  Pass: 1
+  Power (%): 100 \
+  Speed (mm/s): 4 \
+  Pass: 3
 
 # Custom PCB
 
