@@ -10,6 +10,11 @@ The case is made up of 11 parts in total, all of which are included here.
 
 ![Image_2](https://github.com/user-attachments/assets/c6831421-f859-46d1-bc47-393f1d05febd)
 
+Above you can see the OnShape model and below you can see the back part of it (please note I used lacquer to seal the wood after lasercutting it).
+
+![Image_3](https://github.com/user-attachments/assets/8a89f87d-9020-4055-8a45-f892874367e0)
+
+
 # Specifications & Material(s)
 Below are the specifications for the lasercut parts.
 ## Lasercutter
@@ -30,11 +35,11 @@ DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cyl
 
 The custom-PCB's schematic is below:
 
-![Image_3](https://github.com/user-attachments/assets/9828b86f-4e4a-4aeb-8bad-d63521d21ca7)
+![Image_4](https://github.com/user-attachments/assets/9828b86f-4e4a-4aeb-8bad-d63521d21ca7)
 
 And the PCB layout is below:
 
-![Image_4](https://github.com/user-attachments/assets/b0be6a99-daef-49fe-9632-33f5e4007d3c)
+![Image_5](https://github.com/user-attachments/assets/b0be6a99-daef-49fe-9632-33f5e4007d3c)
 
 This PCB's Gerber file is provided as a .zip file.
 
