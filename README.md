@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is a forked project from https://github.com/lmarzen/esp32-weather-epd - pretty much all the things are the same, with the exception of the case, which I created myself and provide here in the form of .STL files. So, to make this brief, I will provide the case information first and then the rest will be what is in lmarzen's github repository.
+This is a forked project from https://github.com/lmarzen/esp32-weather-epd - pretty much all the things are the same, with the exception of the case and custom PCB, which I created myself and provide here in the form of .DXF and .zip files. So, to make this brief, I will provide the case information first, then the custom PCB information, and then the rest will be what is in lmarzen's github repository.
 
 # Case
 
@@ -25,6 +25,19 @@ DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cyl
   Power (%): 1 \
   Speed (mm/s): 50 \
   Pass: 1
+
+# Custom PCB
+
+The custom-PCB's schematic is below:
+
+![Image_3](https://github.com/user-attachments/assets/9828b86f-4e4a-4aeb-8bad-d63521d21ca7)
+
+And the PCB layout is below:
+
+![Image_4](https://github.com/user-attachments/assets/b0be6a99-daef-49fe-9632-33f5e4007d3c)
+
+This PCB's Gerber file is provided as a .zip file.
+
 # ESP32 E-Paper Weather Display
 
 This is a weather display powered by a wifi-enabled ESP32 microcontroller and a 7.5in E-Paper (aka E-ink) display. Current and forecasted weather data is obtained from the OpenWeatherMap API. A sensor provides the display with accurate indoor temperature and humidity.
